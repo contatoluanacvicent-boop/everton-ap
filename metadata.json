@@ -1,0 +1,7 @@
+{
+  "name": "Barbearia Everton dos Cortes",
+  "description": "Plataforma completa de gestão e agendamento para barbearias e profissionais da beleza, com programa de fidelidade, controle de estoque e relatórios financeiros.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
